@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/MrKlauk/skatecolumbia_backend/issues"
   },
-  "homepage": "https://github.com/MrKlauk/skatecolumbia_backend#readme"
+  "homepage": "https://github.com/MrKlauk/skatecolumbia_backend#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0",
+    "mongoose": "^9.11.4",
+    "multer": "^2.5.0"
+  }
 }
